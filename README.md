@@ -32,8 +32,76 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h4 align="left">Languages</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,azure,bash,bootstrap,c,css,django,docker,flask,git,html,huggingface,java,js,jupyter,keras,kibana,kotlin,kubernetes,langchain,linux,matplotlib,mongodb,mysql,nextjs,nginx,nodejs,numpy,ollama,opencv,pandas,photoshop,postgres,puppeteer,py,pytorch,react,ruby,rust,scikitlearn,selenium,spring,sqlite,tensorflow,ts,unity" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
+</p>
+
+<h4 align="left">Frameworks and Libraries</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40" />
+</p>
+
+<h4 align="left">Data and ML</h4>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikitlearn" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40" />
+</p>
+
+<h4 align="left">Databases</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" />
+</p>
+
+<h4 align="left">Cloud and DevOps</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40" />
+</p>
+
+<h4 align="left">Tools and Platforms</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/puppeteer" alt="puppeteer" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=F0uP&show_icons=true&locale=en&layout=compact" alt="F0uP" /></p>
