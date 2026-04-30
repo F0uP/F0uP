@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=F0uP" alt="F0uP" /></a> </p>
 
-- 🔭 I'm currently working on:
+- 🔭 I'm currently working on 
   - **ALICE - Adaptive Lean Intelligence & Compliance Engine for Procurement**
   - **BANDival - Modern Band-Management with fokus on songs, setlists, Calendar, discussions and rehearsal-workflows.**
 
