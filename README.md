@@ -8,7 +8,8 @@
 
 - 🔭 I'm currently working on 
   - **ALICE - Adaptive Lean Intelligence & Compliance Engine for Procurement**
-  - **BANDival - Modernes Band-Management with fokus on songs, setlists, Calendar, discussions and rehearsal-workflows.**
+  - **BANDival - Modern Band-Management with focus on songs, setlists, calendar, discussions and rehearsal-workflows.**
+  - **Masterthesis**
 
 - 🌱 I'm currently learning **TypeScript, NextJS, GO, FineTuning LLMs, Cybersecurity**
 
